@@ -9,6 +9,7 @@ Welcome to the **Multithreading Comparison Project**! This repository contains a
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
+- [Project Report](#project-report)
 
 ## Project Overview
 
